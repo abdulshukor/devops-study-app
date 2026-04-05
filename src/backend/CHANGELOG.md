@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.9](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.3.8...backend-v0.3.9) (2026-04-05)
+
+
+### Bug Fixes
+
+* **gha:** backend ([#38](https://github.com/abdulshukor/devops-study-app/issues/38)) ([a055041](https://github.com/abdulshukor/devops-study-app/commit/a05504160429e4070271452c47327bf2bc37e43f))
+
 ## [0.3.8](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.3.7...backend-v0.3.8) (2026-04-05)
 
 
