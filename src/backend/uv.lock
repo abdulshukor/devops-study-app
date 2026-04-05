@@ -337,7 +337,7 @@ wheels = [
 
 [[package]]
 name = "study-tracker-backend"
-version = "0.3.9"
+version = "0.3.10"
 source = { editable = "." }
 dependencies = [
     { name = "fastapi" },
