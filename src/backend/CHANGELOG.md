@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.7](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.3.6...backend-v0.3.7) (2026-04-05)
+
+
+### Bug Fixes
+
+* **gha:** backend ([781b86d](https://github.com/abdulshukor/devops-study-app/commit/781b86d1e02cafbd30db041ab53906b63820a550))
+
 ## [0.3.6](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.3.5...backend-v0.3.6) (2026-04-05)
 
 
