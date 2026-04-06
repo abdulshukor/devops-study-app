@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.3.10...backend-v0.4.0) (2026-04-06)
+
+
+### Features
+
+* **backen-and-frontend:** gitops images ([#43](https://github.com/abdulshukor/devops-study-app/issues/43)) ([25743e2](https://github.com/abdulshukor/devops-study-app/commit/25743e2750eced9a89b109d4635e733318f096ae))
+
 ## [0.3.10](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.3.9...backend-v0.3.10) (2026-04-05)
 
 
