@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/abdulshukor/devops-study-app/compare/frontend-v0.2.0...frontend-v0.2.1) (2026-04-06)
+
+
+### Bug Fixes
+
+* **backend-&-frontend:** gitops image tag update ([2135ab1](https://github.com/abdulshukor/devops-study-app/commit/2135ab1ad192d2064386dd07861bd8356271ea5c))
+
 ## [0.2.0](https://github.com/abdulshukor/devops-study-app/compare/frontend-v0.1.0...frontend-v0.2.0) (2026-04-06)
 
 
