@@ -69,7 +69,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v8
         with:
-          token: ${{ secrets.DEVOPS_STUDY_AAPP }} # Requires a PAT with repo scope for study-app-gitops
+          token: ${{ secrets.DEVOPS_STUDY_APP }} # Requires a PAT with repo scope for study-app-gitops
           path: ./devops-study-app-gitops
           commit-message: Update dev deployments to tag ${{ inputs.tag }}
           committer: GitOps Bot <gitops-bot@github.com>
