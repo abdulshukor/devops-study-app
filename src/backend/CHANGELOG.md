@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.6](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.4.5...backend-v0.4.6) (2026-04-06)
+
+
+### Bug Fixes
+
+* **backend:** backend image ([8fc60db](https://github.com/abdulshukor/devops-study-app/commit/8fc60db54852368ade31e5ebbb33bb673c53d6ab))
+
 ## [0.4.5](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.4.4...backend-v0.4.5) (2026-04-06)
 
 
