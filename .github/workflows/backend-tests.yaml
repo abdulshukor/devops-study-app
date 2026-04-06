@@ -10,7 +10,7 @@ jobs:
       should_run: ${{ steps.filter.outputs.backend }}
     steps:
       - uses: actions/checkout@v5
-      - uses: dorny/paths-filter@v3.0.2
+      - uses: dorny/paths-filter@v4
         id: filter
         with:
           filters: |
@@ -51,7 +51,7 @@ jobs:
           uv run pytest tests/ -v --cov=src/backend --cov-report=xml --cov-fail-under=80
 
       - name: Upload coverage report
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: coverage-report
           path: ./src/backend/coverage.xml
@@ -67,7 +67,7 @@ jobs:
           output: both
 
       - name: Add Coverage PR Comment
-        uses: marocchino/sticky-pull-request-comment@v2
+        uses: marocchino/sticky-pull-request-comment@v3
         if: github.event_name == 'pull_request'
         with:
           header: test-coverage
