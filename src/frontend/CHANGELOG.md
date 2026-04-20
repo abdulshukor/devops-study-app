@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/abdulshukor/devops-study-app/compare/frontend-v0.2.1...frontend-v0.2.2) (2026-04-20)
+
+
+### Bug Fixes
+
+* **CI:** frontent ([#53](https://github.com/abdulshukor/devops-study-app/issues/53)) ([9fceac5](https://github.com/abdulshukor/devops-study-app/commit/9fceac57db5e402f1ea951c934ac0ec3517de69a))
+
 ## [0.2.1](https://github.com/abdulshukor/devops-study-app/compare/frontend-v0.2.0...frontend-v0.2.1) (2026-04-06)
 
 
