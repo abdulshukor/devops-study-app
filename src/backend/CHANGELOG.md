@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.8](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.4.7...backend-v0.4.8) (2026-04-20)
+
+
+### Bug Fixes
+
+* **backend:** new image tag ([57ff26d](https://github.com/abdulshukor/devops-study-app/commit/57ff26d9b36e107d08f8cbf36437fff560f06344))
+
 ## [0.4.7](https://github.com/abdulshukor/devops-study-app/compare/backend-v0.4.6...backend-v0.4.7) (2026-04-06)
 
 
